@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>[Data Analysis with Excel]</b>https://github.com/EwelinaSwiderska/DataAnalysisWithExcel
+- [Data Analysis with Excel](https://github.com/EwelinaSwiderska/DataAnalysisWithExcel)
 
   - Simple calculations & formulas (SUM / MAX / MIN / MEAN / MULTIPLY)
   - Dates format modyfications
