@@ -11,7 +11,7 @@
   - Visualisations (charts, pivot tables)
   - Data Lifcycle
   
-- <b>[Tableau Dashboard]</b>
+- <b>[Tableau Dashboard](https://github.com/EwelinaSwiderska/DataAnalysisWithTableau)</b>
 
   - Business Requirements
   - Blueprint & Mockup
