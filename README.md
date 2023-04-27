@@ -50,8 +50,9 @@
 
 <h2>🎓Certifications</h2>
 
-- [Improve your Data Literacy](https://github.com/EwelinaSwiderska/EwelinaSwiderska/files/11272970/2862265939.pdf)
-- [AMS Data Analyst Bootcamp by OpenClassrooms](https://github.com/EwelinaSwiderska/EwelinaSwiderska/files/11272977/2023.DFE.Certificates_231.pdf)
+<b><h3>Improve your Data Literacy by OpenClassrooms</b></h3><br><img width="1206" alt="Screenshot 2023-04-27 at 17 04 00" src="https://user-images.githubusercontent.com/129959595/234921012-576d6fd1-c031-49ae-a05d-8e1f3a43b359.png"></br>
+<b><h3>AMS Data Analyst Bootcamp by OpenClassrooms</b></h3><br>
+<img width="1208" alt="Screenshot 2023-04-27 at 17 04 34" src="https://user-images.githubusercontent.com/129959595/234921064-be184f74-a8ad-4bfe-aab2-98b801de5e0f.png"></br>
 
 <h2> 🤳 Connect with me:</h2>
 
