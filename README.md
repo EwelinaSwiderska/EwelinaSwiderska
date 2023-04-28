@@ -16,7 +16,7 @@
   - Business Requirements
   - Blueprint & Mockup
   - Simple calculations & numbers formatting
-  - Filters & Sliders
+  - Filters & sliders
   - Dashboard for internal stakeholders
   - Dashboard for external stakeholders
   
@@ -26,8 +26,8 @@
   - Data Quality
   - Data source, sensitvity & ownership
   - Pandas (loading 3 different data files; functions : READ / HEAD / SHAPE / COLUMNS / DTYPES /VALUE_COUNT / DESCRIBE / UNIQUE)
-  - Identify if Data is qualitative(binary, nominal or ordinal) or quantitative(discrete, continuous)
-  - Identify Data Types
+  - Identify if data is qualitative(binary, nominal or ordinal) or quantitative(discrete, continuous)
+  - Identify data types
   - Identify zero & nulls values
   - Identify outliers with boxplot
   - Identify duplicates
