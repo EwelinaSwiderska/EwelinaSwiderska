@@ -20,7 +20,7 @@
   - Dashboard for internal stakeholders
   - Dashboard for external stakeholders
   
-- <b>[Python (Pandas, Google Colab)] </b>
+- <b>[Python (Pandas, Google Colab)](https://github.com/EwelinaSwiderska/DataAnalysisWithPython)</b>
 
   - Business Requirements
   - Data Quality
