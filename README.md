@@ -34,7 +34,7 @@
   - Identify issues, remove 0 & nulls and plot map 
   - Identify unmached data within data files
   
-- <b>[SQL (Sqlite3, NumPy, Pandas, Google Colab]</b>
+- <b>[SQL (Sqlite3, NumPy, Pandas, Google Colab)](https://github.com/EwelinaSwiderska/DataAnalysisWithSQL)</b>
 
   - Business Requirements
   - Creating ERD
